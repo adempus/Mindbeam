@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="732bf326-1f2c-47ab-b01c-ed100c9cde2e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/core.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/core.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/data/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/.idea/dictionaries/adempus.xml" beforeDir="false" afterPath="$PROJECT_DIR$/templates/.idea/dictionaries/adempus.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/templates/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/mindbeam_ui/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/templates/mindbeam_ui/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/mindbeam_ui/app_components/CapturePreviewScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/templates/mindbeam_ui/app_components/CapturePreviewScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/mindbeam_ui/app_components/DigitizedTextResultScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/templates/mindbeam_ui/app_components/DigitizedTextResultScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/mindbeam_ui/app_components/DocumentCaptureScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/templates/mindbeam_ui/app_components/DocumentCaptureScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/mindbeam_ui/app_components/LoadingScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/templates/mindbeam_ui/app_components/LoadingScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/mindbeam_ui/app_components/MainScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/templates/mindbeam_ui/app_components/MainScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/mindbeam_ui/app_components/RouteConfigs.js" beforeDir="false" afterPath="$PROJECT_DIR$/templates/mindbeam_ui/app_components/RouteConfigs.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/project_mindbeam$project_mindbeam.coverage" NAME="project_mindbeam Coverage Results" MODIFIED="1542241107980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/project_mindbeam$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1540857471888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="app" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="app" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="app" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="90513b60:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="identifier.sqlite" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="project_mindbeam" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5425985">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1144">
+                  <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
+                  <folding>
+                    <element signature="e#0#33#0" expanded="true" />
+                    <marker date="1543729900656" expanded="true" signature="4313:4314" ph="..." />
+                    <marker date="1543729900656" expanded="true" signature="4603:4604" ph="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/core/utils/utilities.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="130">
+                  <caret line="173" lean-forward="true" selection-start-line="173" selection-end-line="173" />
+                  <folding>
+                    <element signature="e#0#11#0" expanded="true" />
+                    <marker date="1543127405529" expanded="true" signature="2054:2061" ph="..." />
+                    <marker date="1543127405529" expanded="true" signature="2124:2264" ph="..." />
+                    <marker date="1543127405529" expanded="true" signature="2310:2651" ph="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/.gitignore">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/data/daos.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="3077">
+                  <caret line="185" column="24" selection-start-line="185" selection-start-column="24" selection-end-line="185" selection-end-column="24" />
+                  <folding>
+                    <element signature="e#0#26#0" expanded="true" />
+                    <marker date="1543014055437" expanded="true" signature="7546:7616" ph="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/data/models.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <folding>
+                    <element signature="e#21#54#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>exp</find>
+      <find>decode</find>
+      <find>ResponseModel</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/data/credentials/secretKey.json" />
+        <option value="$PROJECT_DIR$/app.wsgi" />
+        <option value="$PROJECT_DIR$/dashboardComponentsFile.txt" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/data/daos.py" />
+        <option value="$PROJECT_DIR$/data/credentials/creds.json" />
+        <option value="$PROJECT_DIR$/venv/jaja.txt" />
+        <option value="$PROJECT_DIR$/core/utils/utilities.py" />
+        <option value="$PROJECT_DIR$/data/sampleText.txt" />
+        <option value="$PROJECT_DIR$/app.py" />
+        <option value="$PROJECT_DIR$/core/core.py" />
+        <option value="$PROJECT_DIR$/data/models.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="84" />
+    <option name="y" value="330" />
+    <option name="width" value="1910" />
+    <option name="height" value="810" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Angular</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Pyramid</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyPackageRequirementsInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/v2" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="project_mindbeam" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="project_mindbeam" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/image_uploads" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Flask server.project_mindbeam">
+    <configuration name="Flask (app.py)" type="Python.FlaskServer" factoryName="Flask server" temporary="true" nameIsGenerated="true">
+      <module name="project_mindbeam" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="project_mindbeam" type="Python.FlaskServer" factoryName="Flask server">
+      <option name="flaskDebug" value="true" />
+      <module name="project_mindbeam" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="/usr/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Flask server.project_mindbeam" />
+      <item itemvalue="Flask server.Flask (app.py)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flask server.Flask (app.py)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="732bf326-1f2c-47ab-b01c-ed100c9cde2e" name="Default Changelist" comment="" />
+      <created>1540854142976</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540854142976</updated>
+      <workItem from="1542850291707" duration="6268000" />
+      <workItem from="1542859826931" duration="12650000" />
+      <workItem from="1542927699454" duration="30646000" />
+      <workItem from="1543010870467" duration="11644000" />
+      <workItem from="1543107764350" duration="7227000" />
+      <workItem from="1543126800579" duration="1602000" />
+      <workItem from="1543275166491" duration="5349000" />
+      <workItem from="1543539861526" duration="10360000" />
+      <workItem from="1543556159667" duration="5006000" />
+      <workItem from="1543709346650" duration="10836000" />
+      <workItem from="1543800392299" duration="932000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="102520000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="32" width="1920" height="1048" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49526814" weight="0.124068156" />
+      <window_info id="Structure" order="1" sideWeight="0.50421053" side_tool="true" weight="0.14962727" />
+      <window_info id="Favorites" order="2" sideWeight="0.5008264" side_tool="true" weight="0.15332326" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32842106" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289256" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289256" />
+      <window_info anchor="bottom" id="Database Console" order="7" weight="0.3272727" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" weight="0.3289256" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49893504" visible="true" weight="0.31590414" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50106496" side_tool="true" weight="0.31578946" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.291939" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" x="0" y="0" width="430" height="880" id="Documentation" order="4" side_tool="true" visible="true" weight="0.15654951" />
+      <window_info anchor="right" id="Database" order="5" weight="0.14270501" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49917355" visible="true" weight="0.20168711" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5008264" side_tool="true" weight="0.15332326" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3293348" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289256" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32982087" />
+      <window_info anchor="bottom" id="Database Console" order="7" weight="0.3272727" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" weight="0.3289256" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.41815236" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.3576881" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" x="0" y="0" width="430" height="880" id="Documentation" order="4" side_tool="true" weight="0.15654951" />
+      <window_info anchor="right" id="Database" order="5" weight="0.14270501" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///usr/lib/python2.7/dist-packages/gunicorn/workers/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="147" selection-start-line="147" selection-end-line="147" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib64/python3.6/site-packages/flask/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib64/python3.6/site-packages/flask/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="226" column="28" selection-start-line="226" selection-start-column="28" selection-end-line="226" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/werkzeug/contrib/atom.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="209" column="30" selection-start-line="209" selection-start-column="30" selection-end-line="209" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.7/site-packages/flask/cli.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="234" selection-start-line="234" selection-end-line="234" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://cb2d8be2-bade-45a3-aab4-1c67d312da32/schema/main/table/card_groups" />
+    <entry file="das://cb2d8be2-bade-45a3-aab4-1c67d312da32/schema/main/table/users" />
+    <entry file="das://cb2d8be2-bade-45a3-aab4-1c67d312da32/schema/main/table/flashcards" />
+    <entry file="das://cb2d8be2-bade-45a3-aab4-1c67d312da32/schema/main/table/question_types" />
+    <entry file="das://cb2d8be2-bade-45a3-aab4-1c67d312da32/schema/main/table/education_levels" />
+    <entry file="das://cb2d8be2-bade-45a3-aab4-1c67d312da32/schema/main/table/questions" />
+    <entry file="file://$PROJECT_DIR$/app.wsgi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboardComponentsFile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/texts.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.7/site-packages/flask/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/image_uploads/Capture_Thu_Nov_22_2018023600.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/image_uploads/Capture_Thu_Nov_22_2018023405.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/image_uploads/Capture_Thu_Nov_22_2018023234.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/image_uploads/20181111_211706.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/image_uploads/Capture_Thu_Nov_22_2018023456.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/image_uploads/Capture_Thu_Nov_22_2018023647.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/image_uploads/Capture_Thu_Nov_22_2018024217.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/image_uploads/Capture_Thu_Nov_22_2018024423.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/image_uploads/Thu_Nov_22_2018_031912.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/image_uploads/Thu_Nov_22_2018_031024.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/image_uploads/Capture_Thu_Nov_22_2018_025400.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/image_uploads/Capture_Thu_Nov_22_2018_024916.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/image_uploads/Thu_Nov_22_2018_032434.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/image_uploads/Thu_Nov_22_2018_193744.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/image_uploads/Thu_Nov_22_2018_195133.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/image_uploads/Thu_Nov_22_2018_211006.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/image_uploads/Thu_Nov_22_2018_213800.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/image_uploads/Thu_Nov_22_2018_214233.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/image_uploads/Thu_Nov_22_2018_215029.jpg" />
+    <entry file="file://$USER_HOME$/.local/lib/python3.7/site-packages/google/auth/_default.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/image_uploads/Thu_Nov_22_2018_221321.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/image_uploads/Thu_Nov_22_2018_221541.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/image_uploads/Thu_Nov_22_2018_231452.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/image_uploads/Thu_Nov_22_2018_233638.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/image_uploads/Thu_Nov_22_2018_233955.jpg" />
+    <entry file="file://$PROJECT_DIR$/venv/jaja.txt" />
+    <entry file="file://$PROJECT_DIR$/data/credentials/creds.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="59" lean-forward="true" selection-start-column="59" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sampleText.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.7/site-packages/flask/globals.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/daos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3077">
+          <caret line="185" column="24" selection-start-line="185" selection-start-column="24" selection-end-line="185" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+            <marker date="1543014055437" expanded="true" signature="7546:7616" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1144">
+          <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+            <marker date="1543729900656" expanded="true" signature="4313:4314" ph="..." />
+            <marker date="1543729900656" expanded="true" signature="4603:4604" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/utils/utilities.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="173" lean-forward="true" selection-start-line="173" selection-end-line="173" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <marker date="1543127405529" expanded="true" signature="2054:2061" ph="..." />
+            <marker date="1543127405529" expanded="true" signature="2124:2264" ph="..." />
+            <marker date="1543127405529" expanded="true" signature="2310:2651" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="59" column="29" lean-forward="true" selection-start-line="59" selection-start-column="29" selection-end-line="59" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/schema.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#21#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

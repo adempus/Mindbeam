@@ -1,0 +1,19 @@
+---Interrogative Words---
+Wh-questions:
+    -interrogative determiner
+        which, what
+        whose (personal possessive determiner)
+    -interrogative pro-form
+        -interrogative pronoun
+           who, whom, whose (personal)
+           what, which
+        -interrogative pro-adverb
+            where (location)
+            when (time)
+            how (manner)
+                how come (manner of manner)
+                how far  (manner of location)
+                how long (manner of time)
+                how much (manner of quantity)
+            why (reason)
+            whether and whatsoever (choice between alternatives)
